@@ -1,7 +1,7 @@
 # Care.xyz - Healthcare Booking Platform
 
 Care.xyz is a modern, full-stack healthcare service booking application built with **Next.js 14**, **MongoDB**, and **Tailwind CSS**. It provides a seamless experience for users to browse care services, book appointments, and receive automated confirmations.
-
+## Live link- https://care-xyz-lilac-gamma.vercel.app/
 ## 🚀 Key Features
 
 ### 🔐 Secure Authentication
